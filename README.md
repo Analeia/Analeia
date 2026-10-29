@@ -23,5 +23,5 @@ Em transição para **Engenharia de Dados**, aprendendo na prática e documentan
 - Documentação de instalação e configuração do PostgreSQL no Mac
 
 ## 📫 Contato
-[LinkedIn](link)
+[LinkedIn](www.linkedin.com/in/analeia)
 
